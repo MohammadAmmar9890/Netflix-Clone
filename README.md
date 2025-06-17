@@ -27,14 +27,14 @@ To view the project:
 2. Open index.html in your browser.
 
 ## 💡 What I Learned
-Building modern UI with only HTML and CSS
-Working with layout techniques like Flexbox and Grid
-Styling and organizing a project from scratch
+   - Building modern UI with only HTML and CSS
+   - Working with layout techniques like Flexbox and Grid
+   - Styling and organizing a project from scratch
 
 ## 📌 Future Improvements
-Add JavaScript for interactivity
-Add animations or transitions
-Make a full Netflix clone with login and video section using full-stack technologies
+   - Add JavaScript for interactivity
+   - Add animations or transitions
+   - Make a full Netflix clone with login and video section using full-stack technologies
 
 📧 Contact
 📫 Email: ammar989098@gmail.com
