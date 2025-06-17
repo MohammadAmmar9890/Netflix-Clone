@@ -22,8 +22,20 @@ To view the project:
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/netflix-clone.git
+   git clone https://github.com/mohammadammar9890/netflix-clone.git
 
 2. Open index.html in your browser.
 
+## 💡 What I Learned
+Building modern UI with only HTML and CSS
+Working with layout techniques like Flexbox and Grid
+Styling and organizing a project from scratch
+
+## 📌 Future Improvements
+Add JavaScript for interactivity
+Add animations or transitions
+Make a full Netflix clone with login and video section using full-stack technologies
+
+📧 Contact
+📫 Email: ammar989098@gmail.com
 
