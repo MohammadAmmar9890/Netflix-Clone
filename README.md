@@ -11,7 +11,19 @@ This is a simple Netflix homepage clone created using only HTML and CSS. It is d
 ## 📸 Screenshot
 
 ![Netflix Clone Screenshot](Screenshort/1.png)  
+![Netflix Clone Screenshot](Screenshort/2.png) 
+![Netflix Clone Screenshot](Screenshort/3.png) 
+![Netflix Clone Screenshot](Screenshort/4.png) 
 *(Add your screenshot image to your repo and rename it to `screenshot.png` or update the name here.)*
 
-## 📂 Project Structure
+## 🚀 Getting Started
+
+To view the project:
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/netflix-clone.git
+
+2. Open index.html in your browser.
+
 
