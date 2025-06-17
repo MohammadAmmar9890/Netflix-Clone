@@ -10,7 +10,7 @@ This is a simple Netflix homepage clone created using only HTML and CSS. It is d
 
 ## 📸 Screenshot
 
-![Netflix Clone Screenshot](1.png)  
+![Netflix Clone Screenshot](Screenshort/1.png)  
 *(Add your screenshot image to your repo and rename it to `screenshot.png` or update the name here.)*
 
 ## 📂 Project Structure
